@@ -27,7 +27,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Welcome CTF 2021"
+    title = "Grey Cat The Flag 2022"
     subtitle = "Learn how to hack and make new friends!"
     keywords = ""
     copyright = ""
@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "Welcome CTF 2021"
+      logoText = "Grey Cat The Flag 2021"
       logoHomeLink = "/"
     # or
     #
