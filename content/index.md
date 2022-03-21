@@ -10,7 +10,7 @@ CTF (Capture The Flag) is a kind of information security competition that challe
 
 ### $ stat ctf
 
-This CTF is open to all local students (Sec/JC/Poly/Uni) + NSFs as well as international teams.
+This CTF is open to all students studying in Singapore (Sec/JC/Poly/Uni) + NSFs as well as international teams.
 
 However, only local students & NSFs can qualify for the in-person final round to get our prizes! Local teams who wish to be eligible for the finals must [sign up here](/reg) with a maximum team size of 3.
 
