@@ -21,7 +21,9 @@ International or casual teams can sign up on the CTF platform during the event i
 dates | events
 -- | --
 6-10 Jun 2022  | Qualifiers, Online
-18-19 Jun 2022 | Finals @ [Innovation 4.0](https://goo.gl/maps/2v6W1HnpuAwjyQPu5)
+18-19 Jun 2022 | Finals* @ [Innovation 4.0](https://goo.gl/maps/2v6W1HnpuAwjyQPu5)
+
+***Subject to COVID-19 restrictions** 😩
 
 ### $ prize
 
