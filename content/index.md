@@ -1,6 +1,6 @@
 ### $ ctf -h
 
-Grey Cat The Flag is [NUS Greyhats](https://nusgreyhats.org)' new inaugural self-hosted CTF, in collaboration with [National Cybersecurity R&D Labs](https://ncl.sg).
+Grey Cat The Flag is a CTF hosted by [NUS Greyhats](https://nusgreyhats.org) in collaboration with [National Cybersecurity R&D Labs](https://ncl.sg).
 
 #### What is CTF?
 
