@@ -44,7 +44,8 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "Grey Cat The Flag 2022"
+      path = "/logo.png"
+      logoText = "Grey Cat The Flag 22"
       logoHomeLink = "/"
     # or
     #
