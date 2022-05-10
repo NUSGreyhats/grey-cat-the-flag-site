@@ -102,3 +102,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 <p><strong>Q: What's the flag format?</strong></p>
 <p>A: <code>grey{...}</code></p>
 </div>
+
+### $ Poster
+
+![Poster](/static/poster.png)
