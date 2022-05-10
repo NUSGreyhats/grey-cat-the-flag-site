@@ -105,4 +105,4 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 ### $ Poster
 
-![Poster](/static/poster.png)
+![Poster](/poster.png)
