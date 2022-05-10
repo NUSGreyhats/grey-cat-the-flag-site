@@ -105,4 +105,6 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 ### $ Poster
 
-![Poster](/poster.png)
+<div style="margin: auto">
+    <img src="/poster.png"/>
+</div>
