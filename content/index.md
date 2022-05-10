@@ -6,7 +6,7 @@ Grey Cat The Flag is a CTF hosted by [NUS Greyhats](https://nusgreyhats.org) in 
 
 CTF (Capture The Flag) is a kind of information security competition that challenges you to solve a variety of tasks ranging from a scavenger hunt on wikipedia to basic programming exercises, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text that may be hidden on the server or behind a webpage. This goal is called the flag, hence the name!
 
-If you are new, don't worry! We will be sharing resources in our [Discord server](https://discord.gg/CRXSBC8r) <i style="color: #738adb" class="fab fa-discord"></i> every now and then.
+If you are new, don't worry! We will be sharing resources in our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738adb" class="fab fa-discord"></i> every now and then.
 
 [Learn more about CTFs](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)
 
@@ -59,7 +59,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 
 ### $ FAQ
 
-Join our [Discord server](https://discord.gg/CRXSBC8r) <i style="color: #738adb" class="fab fa-discord"></i> if you have more questions.
+Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738adb" class="fab fa-discord"></i> if you have more questions.
 
 <style>
 .qna {
@@ -85,7 +85,7 @@ Join our [Discord server](https://discord.gg/CRXSBC8r) <i style="color: #738adb"
 
 <div class="qna">
 <p><strong>Q: How do I know if I have successfully registered my team?</strong></p>
-<p>A: We will send out confirmation emails in batches, so it might take some time for you to receive it. If you have yet to receive the email and wish to find out immediately, you can file a ticket in #🛠-support in our <a href="https://discord.gg/CRXSBC8r">Discord server</a> and we will help you check manually.</p>
+<p>A: We will send out confirmation emails in batches, so it might take some time for you to receive it. If you have yet to receive the email and wish to find out immediately, you can file a ticket in #🛠-support in our <a href="https://discord.gg/d9wbXEP2wN">Discord server</a> and we will help you check manually.</p>
 </div>
 
 <div class="qna">
