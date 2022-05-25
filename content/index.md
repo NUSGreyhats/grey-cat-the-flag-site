@@ -55,7 +55,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 
 <i style="color: #E5E4E2" class="fa-solid fa-coins"></i> **Platinum Sponsor:** [Cyber Security Agency of Singapore](https://www.csa.gov.sg/)
 
-<i style="color: #FFD700" class="fa-solid fa-coins"></i> **Gold Sponsor:** [GuardRails](https://www.guardrails.io/)
+<i style="color: #FFD700" class="fa-solid fa-coins"></i> **Gold Sponsors:** [GuardRails](https://www.guardrails.io/), [Ensign InfoSecurity](https://www.ensigninfosecurity.com/)
 
 ### $ FAQ
 
