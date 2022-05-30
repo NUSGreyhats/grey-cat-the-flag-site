@@ -53,9 +53,51 @@ Champion 🏆 | **$9000**
 
 We would like to extend our heartfelt gratitude to our sponsors <i style="color: #ff0000" class="fa-solid fa-heart"></i>.
 
-<i style="color: #E5E4E2" class="fa-solid fa-coins"></i> **Platinum Sponsor:** [Cyber Security Agency of Singapore](https://www.csa.gov.sg/)
+<style>
+.sponsor-tier-header {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
 
-<i style="color: #FFD700" class="fa-solid fa-coins"></i> **Gold Sponsors:** [GuardRails](https://www.guardrails.io/), [Ensign InfoSecurity](https://www.ensigninfosecurity.com/)
+.sponsor-logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.sponsor-logo-image {
+    margin: 0.5rem;
+    padding: auto;
+    vertical-align: middle;
+}
+
+.sponsor-logo-image img {
+    max-width: 350px;
+    margin: auto;
+}
+</style>
+
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.jpeg"/></a>
+    </div>
+</div>
+
+<p class="sponsor-tier-header"><i style="color: #FFD700" class="fa-solid fa-coins"></i> Gold Sponsors</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.guardrails.io/"><img alt="GuardRails" src="/guardrails.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.ensigninfosecurity.com/"><img style="padding: 40px" alt="Ensign InfoSecurity" src="/ensign.png"/></a>
+    </div>
+</div>
+<br/>
+
+Also huge thanks to Google for [sponsoring our infrastructure](https://goo.gle/ctfsponsorship)!
 
 ### $ FAQ
 
