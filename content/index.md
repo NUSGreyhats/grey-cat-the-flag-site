@@ -105,4 +105,4 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 ### $ Poster
 
-<img style="max-width: 100%" src="/teaser.png"/>
+<img style="max-width: 100%" src="/teaser.jpg"/>
