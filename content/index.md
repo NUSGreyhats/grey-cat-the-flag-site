@@ -35,8 +35,8 @@ Only local teams are eligible for prizes.
 
 achievement | reward
 -- | --
-Top 10 Writeups 📝 <br/>(for specific challenges)  | **$30** each
-First Bloods 🩸 <br/>(for 10 specific challenges) | **$30** each
+Top 10 Writeups 📝 <br/>(for specific challenges)  | **$50** each
+First Bloods 🩸 <br/>(for 10 specific challenges) | **$50** each
 
 #### $ ls finals
 
@@ -105,4 +105,4 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 ### $ Poster
 
-<img style="max-width: 100%" src="/poster.png"/>
+<img style="max-width: 100%" src="/teaser.png"/>
