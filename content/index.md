@@ -103,6 +103,6 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 <p>A: <code>grey{...}</code></p>
 </div>
 
-### $ Poster
+### $ cat poster.png
 
-<img style="max-width: 100%" src="/teaser.png"/>
+<img style="max-width: 100%" src="/poster.png"/>
