@@ -45,7 +45,7 @@ paginate = 5
 
     [languages.en.params.logo]
       path = "/logo.png"
-      logoText = "Grey Cat The Flag 22"
+      logoText = "Grey Cat The Flag 23"
       logoHomeLink = "/"
     # or
     #
