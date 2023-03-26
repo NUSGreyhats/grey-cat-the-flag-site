@@ -12,42 +12,20 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-This CTF is open to all students **studying in Singapore (Sec/JC/Poly/Uni) + NSFs**. International teams are also welcomed! However, only local students & NSFs can qualify for the in-person final round to get our prizes.
+We will host the onsite finals at the National University of Singapore (NUS), to which the top 5 international teams and the top 10 Singapore teams from the qualifiers will be invited. 
 
-Local teams who wish to be eligible for the finals must [**sign up here**](/reg) with a maximum team size of 3.
-
-International or casual teams can **sign up on the CTF platform during the event itself**. For fairness, please also play in teams of 3.
+Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams.
 
 ### $ where ctf
 
 dates | events
 -- | --
-6 Jun, 8pm (GMT+8) to<br/>10 Jun, 8pm (GMT+8) | Qualifiers, Online
-18 to 19 Jun (begins at 9am) | Finals* @ [Innovation 4.0](https://goo.gl/maps/2v6W1HnpuAwjyQPu5)
-
-***Subject to COVID-19 restrictions** (situation is looking good now 😃)
+19 May, 10pm (GMT+8) to<br/>21 May, 10pm (GMT+8) | Qualifiers, Online
+15 to 16 July | Finals @ NUS
 
 ### $ man prize
 
-Only local teams are eligible for prizes.
-
-#### $ ls qualifiers
-
-achievement | reward
--- | --
-Top 10 Writeups 📝 <br/>(for specific challenges)  | **$50** each
-First Bloods 🩸 <br/>(for 10 specific challenges) | **$50** each
-
-#### $ ls finals
-
-Top 10 teams from the qualifiers will compete in the in-person finals.
-
-achievement | reward
--- | --
-Champion 🏆 | **$9000**
-2nd 🥈 | **$6000**
-3rd 🥉 | **$3000**
-4th-10th 🙂 | **$450** each
+TBA
 
 ### $ whois sponsors
 
@@ -82,22 +60,9 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.jpeg"/></a>
+        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.png"/></a>
     </div>
 </div>
-
-<p class="sponsor-tier-header"><i style="color: #FFD700" class="fa-solid fa-coins"></i> Gold Sponsors</p>
-<div class="sponsor-logos-container">
-    <div class="sponsor-logo-image">
-        <a href="https://www.guardrails.io/"><img alt="GuardRails" src="/guardrails.png"/></a>
-    </div>
-    <div class="sponsor-logo-image">
-        <a href="https://www.ensigninfosecurity.com/"><img style="padding: 40px" alt="Ensign InfoSecurity" src="/ensign.png"/></a>
-    </div>
-</div>
-<br/>
-
-Also huge thanks to Google for [sponsoring our infrastructure](https://goo.gle/ctfsponsorship)!
 
 ### $ FAQ
 
@@ -116,18 +81,8 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 </style>
 
 <div class="qna">
-<p><strong>Q: I don't have a team of 3. Can I still join?</strong></p>
-<p>A: You can join our Discord server to find teammates.</p>
-</div>
-
-<div class="qna">
-<p><strong>Q: If my team has a member that is not studying in Singapore/awaiting enlistment/pending matriculation, are we still eligible for prizes?</strong></p>
-<p>A: No :(</p>
-</div>
-
-<div class="qna">
-<p><strong>Q: How do I know if I have successfully registered my team?</strong></p>
-<p>A: We will send out confirmation emails in batches, so it might take some time for you to receive it. If you have yet to receive the email and wish to find out immediately, you can file a ticket in #🛠-support in our <a href="https://discord.gg/d9wbXEP2wN">Discord server</a> and we will help you check manually.</p>
+<p><strong>Q: I don't have a team of 6. Can I still join?</strong></p>
+<p>A: Yes you can. You can also find teammates by joining our Discord server.</p>
 </div>
 
 <div class="qna">
@@ -144,7 +99,3 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 <p><strong>Q: What's the flag format?</strong></p>
 <p>A: <code>grey{...}</code></p>
 </div>
-
-### $ cat poster.png
-
-<img style="max-width: 100%" src="/poster.png"/>
