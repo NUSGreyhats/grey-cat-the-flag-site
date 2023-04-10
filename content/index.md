@@ -81,8 +81,8 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 </style>
 
 <div class="qna">
-<p><strong>Q: I don't have a team of 6. Can I still join?</strong></p>
-<p>A: Yes you can. You can also find teammates by joining our Discord server.</p>
+<p><strong>Q: Is there a team size limit for qualifiers?</strong></p>
+<p>A: There is no team size limit for qualifiers. You can have as many team members as you want. However, please note that for the final round, each team can only send up to 6 members.</p>
 </div>
 
 <div class="qna">
