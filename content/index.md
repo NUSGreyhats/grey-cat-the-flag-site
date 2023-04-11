@@ -2,6 +2,8 @@
 
 Grey Cat The Flag is a CTF hosted by [NUS Greyhats](https://nusgreyhats.org) in collaboration with [National Cybersecurity R&D Labs](https://ncl.sg).
 
+Register for the qualifiers @ [ctfd.nusgreyhats.org](https://ctfd.nusgreyhats.org)
+
 #### What is CTF?
 
 CTF (Capture The Flag) is a kind of information security competition that challenges you to solve a variety of tasks ranging from a scavenger hunt on wikipedia to basic programming exercises, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text that may be hidden on the server or behind a webpage. This goal is called the flag, hence the name!
@@ -15,6 +17,8 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 We will host the onsite finals at the National University of Singapore (NUS), to which the top 5 international teams and the top 10 Singapore teams from the qualifiers will be invited. 
 
 Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams.
+
+A team can be considered a Singapore team only if all its members participating in this CTF event are Singapore Citizens, Permanent Residents (PR), or Long-term Pass holders.
 
 ### $ where ctf
 
@@ -82,7 +86,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 <div class="qna">
 <p><strong>Q: Is there a team size limit for qualifiers?</strong></p>
-<p>A: There is no team size limit for qualifiers. You can have as many team members as you want. However, please note that for the final round, each team can only send up to 6 members.</p>
+<p>A: There is no team size limit for qualifiers. You can have as many team members as you want. However, please note that each team can only send up to 6 members for the finals.</p>
 </div>
 
 <div class="qna">
