@@ -31,9 +31,9 @@ dates | events
 
 ranking | prize
 -- | --
-1st place | **SGD 6000**
-2nd place | **SGD 4200**
-3rd place | **SGD 2400**
+1st place | SGD 6000
+2nd place | SGD 4200
+3rd place | SGD 2400
 
 ### $ whois sponsors
 
