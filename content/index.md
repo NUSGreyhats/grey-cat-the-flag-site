@@ -75,7 +75,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" src="/bakkhos-logo.png"/></a>
+        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 240px;' src="/bakkhos-logo.png"/></a>
     </div>
 </div>
 
