@@ -72,6 +72,20 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
     </div>
 </div>
 
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" src="/bakkhos-logo.png"/></a>
+    </div>
+</div>
+
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Bronze Sponsor</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
+    </div>
+</div>
+
 ### $ FAQ
 
 Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738adb" class="fab fa-discord"></i> if you have more questions.
