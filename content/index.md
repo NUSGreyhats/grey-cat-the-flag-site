@@ -121,3 +121,76 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 <p><strong>Q: What's the flag format?</strong></p>
 <p>A: <code>grey{...}</code></p>
 </div>
+
+### $ history
+
+#### Past Winners
+
+<style>
+.past-year-header {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.past-winner-table {
+    margin-top: 0.3rem;
+}
+</style>
+
+<p class="past-year-header">2023</p>
+
+<table class="past-winner-table">
+<thead>
+<tr>
+<th>ranking</th>
+<th>team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>1st place</td>
+    <td>no rev/pwn no life</td>
+</tr>
+<tr>
+    <td>2nd place</td>
+    <td>DiceGang</td>
+</tr>
+<tr>
+    <td>3rd place</td>
+    <td>Social Engineering Experts</td>
+</tr>
+</tbody>
+</table>
+
+#### Past Sponsors
+<style>
+.past-sponsor-logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.past-sponsor-logo-image {
+    margin: 0.5rem;
+    padding: auto;
+    vertical-align: middle;
+}
+
+.past-sponsor-logo-image img {
+    max-width: 200px;
+    margin: auto;
+}
+</style>
+
+<div class="past-sponsor-logos-container">
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.png"/></a>
+    </div>
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 120px;' src="/bakkhos-logo.png"/></a>
+    </div>
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
+    </div>
+</div>
