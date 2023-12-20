@@ -14,9 +14,9 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-We will host the onsite finals at the National University of Singapore (NUS), to which the top 5 international teams and the top 10 Singapore teams from the qualifiers will be invited. 
+We will host the onsite finals at Google Everest (Singapore), to which the top 8 international teams and the top 8 Singapore teams from the qualifiers will be invited. 
 
-Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams.
+Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams. Accomodation costs for the top 3 international teams will be fully paid for.
 
 A team can be considered a Singapore team only if all its members participating in this CTF event are Singapore Citizens, Permanent Residents (PR), or Long-term Pass holders.
 
@@ -24,16 +24,38 @@ A team can be considered a Singapore team only if all its members participating 
 
 dates | events
 -- | --
-19 May, 10pm (GMT+8) to<br/>21 May, 10pm (GMT+8) | Qualifiers, Online
-15 to 16 July | Finals @ NUS
+23 March, 9pm (GMT+8) to<br/>24 March, 9pm (GMT+8) | Qualifiers, Online
+20 to 21 June | Finals @ NUS
+22 June | GCTF Summit @ Google Everest (Singapore)
 
 ### $ man prize
+<style>
+.category-header {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.category-header + table {
+    margin-top: 20px;
+}
+</style>
+
+<p class="category-header">open category</p>
 
 ranking | prize
 -- | --
 1st place | SGD 6000
-2nd place | SGD 4200
-3rd place | SGD 2400
+2nd place | SGD 3000
+3rd place | SGD 1000
+
+<p class="category-header">local category</p>
+
+ranking | prize
+-- | --
+1st place | SGD 3000
+2nd place | SGD 2000
+3rd place | SGD 1000
 
 ### $ whois sponsors
 
@@ -55,7 +77,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 
 .sponsor-logo-image {
     margin: 0.5rem;
-    padding: auto;
+    padding: 1rem;
     vertical-align: middle;
 }
 
@@ -125,7 +147,6 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 ### $ history
 
 #### Past Winners
-
 <style>
 .past-year-header {
     text-align: center;
@@ -133,35 +154,28 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
     font-weight: bold;
 }
 
-.past-winner-table {
-    margin-top: 0.3rem;
+.past-year-header + table {
+    /* styles for the second element */
+    margin-top: 20px;
 }
 </style>
 
 <p class="past-year-header">2023</p>
 
-<table class="past-winner-table">
-<thead>
-<tr>
-<th>ranking</th>
-<th>team</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td>1st place</td>
-    <td>no rev/pwn no life</td>
-</tr>
-<tr>
-    <td>2nd place</td>
-    <td>DiceGang</td>
-</tr>
-<tr>
-    <td>3rd place</td>
-    <td>Social Engineering Experts</td>
-</tr>
-</tbody>
-</table>
+ranking | team
+-- | --
+1st place | no rev/pwn no life
+2nd place | DiceGang
+3rd place | Social Engineering Experts
+
+
+<p class="past-year-header">2022</p>
+
+ranking | team
+-- | --
+1st place | catssg
+2nd place | nushmellows
+3rd place | Stranglehold
 
 #### Past Sponsors
 <style>
@@ -173,7 +187,6 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 .past-sponsor-logo-image {
     margin: 0.5rem;
-    padding: auto;
     vertical-align: middle;
 }
 
@@ -193,4 +206,5 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
     <div class="past-sponsor-logo-image">
         <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
     </div>
+
 </div>
