@@ -26,12 +26,12 @@ We are excited to announce that we are hosting our very own Summit this year at 
 
 Event schedule (TBC)
 
-time (SGT) | events
+Time (22 June SGT) | Event
 -- | --
 1000 - 1100 | Speeches by Gold Sponsors
 1100 - 1300 | Summit talks
 1300 - 1400 | Lunch and networking
-1400 - 1600 | Summit talk
+1400 - 1600 | Summit talks
 1600 - 1630 | Tea break
 1630 - 1730 | Keynote speech by Platinum Sponsor
 1730 - 1800 | Prize presentation
