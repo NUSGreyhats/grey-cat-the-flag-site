@@ -14,18 +14,34 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-We will host the onsite finals at Google Everest (Singapore), to which the top 8 international teams and the top 8 Singapore teams from the qualifiers will be invited. 
+We will host the onsite finals in singapore, to which the top 8 international teams and the top 8 Singapore teams from the qualifiers will be invited. 
 
 Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams. Accomodation costs for the top 3 international teams will be fully paid for.
 
 A team can be considered a Singapore team only if all its members participating in this CTF event are Singapore Citizens, Permanent Residents (PR), or Long-term Pass holders.
+
+### $ stat summit
+
+We are excited to announce that we are hosting our very own Summit this year at Google Everest in Singapore! This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation. We hope that you will join us for this fantastic summit!
+
+Event schedule (TBC)
+
+time (SGT) | events
+-- | --
+1000 - 1100 | Speeches by Gold Sponsors
+1100 - 1300 | Summit talks
+1300 - 1400 | Lunch and networking
+1400 - 1600 | Summit talk
+1600 - 1630 | Tea break
+1630 - 1730 | Keynote speech by Platinum Sponsor
+1730 - 1800 | Prize presentation
 
 ### $ where ctf
 
 dates | events
 -- | --
 23 March, 9pm (GMT+8) to<br/>24 March, 9pm (GMT+8) | Qualifiers, Online
-20 to 21 June | Finals @ NUS
+20 to 21 June | Finals @ TBC
 22 June | GCTF Summit @ Google Everest (Singapore)
 
 ### $ man prize
@@ -87,24 +103,10 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 }
 </style>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
-<div class="sponsor-logos-container">
-    <div class="sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.png"/></a>
-    </div>
-</div>
-
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
-<div class="sponsor-logos-container">
-    <div class="sponsor-logo-image">
-        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 240px;' src="/bakkhos-logo.png"/></a>
-    </div>
-</div>
-
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Bronze Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
+        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 240px;' src="/bakkhos-logo.png"/></a>
     </div>
 </div>
 
@@ -131,7 +133,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 <div class="qna">
 <p><strong>Q: What categories are there?</strong></p>
-<p>A: Web, Pwn, Crypto, RE, Misc</p>
+<p>A: Web, Pwn, Crypto, RE, Blockchain, Misc</p>
 </div>
 
 <div class="qna">
@@ -198,7 +200,7 @@ ranking | team
 
 <div class="past-sponsor-logos-container">
     <div class="past-sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa.png"/></a>
+        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa-logo.png"/></a>
     </div>
     <div class="past-sponsor-logo-image">
         <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 120px;' src="/bakkhos-logo.png"/></a>
@@ -206,5 +208,16 @@ ranking | team
     <div class="past-sponsor-logo-image">
         <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
     </div>
-
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.ensigninfosecurity.com/"><img alt="Ensign InfoSecurity" src="/ensign-logo.png"/></a>
+    </div>
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.guardrails.io/"><img alt="GuardRails" src="/guardrails-logo.svg"/></a>
+    </div>
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.acronis.com/"><img alt="Acronis" src="/acronis-logo.svg"/></a>
+    </div>
+    <div class="past-sponsor-logo-image">
+        <a href="https://www.comp.nus.edu.sg/"><img alt="NUS Computing" src="/nus-computing-logo.png"/></a>
+    </div>
 </div>
