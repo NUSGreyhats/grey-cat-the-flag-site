@@ -18,15 +18,13 @@ There will be two categories this year
 
 1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen)
 
-2. Open Category consists of: all participants who does not qualify for the local category OR participants who is eligible for the local category but opts in for the open category
+2. Open Category consists of: all participants who do not qualify for the local category, participants who are eligible for the local category but opts in for the open category
 
 There will be an onsite finals for the top 20 teams in the local category. Each team may send up to 4 people for the onsite finals.
 
-Regrettably, we are unable to accommodate international teams for the onsite finals this year. On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Open category.
+Regrettably, we are unable to accommodate international teams for the onsite finals this year.
 
-Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams. Accomodation costs for the top 3 international teams will be fully paid for.
-
-A team can be considered a Singapore team only if all its members participating in this CTF event are Singapore Citizens, Permanent Residents (PR), or Long-term Pass holders.
+On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Open category.
 
 ### $ stat summit
 
@@ -168,7 +166,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 ranking | team
 -- | --
-1st place | no rev/pwn no life
+1st place | r3kapig
 2nd place | DiceGang
 3rd place | Social Engineering Experts
 
