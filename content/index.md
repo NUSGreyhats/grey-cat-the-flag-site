@@ -1,6 +1,6 @@
 ### $ ctf -h
 
-Grey Cat The Flag is a CTF hosted by [NUS Greyhats](https://nusgreyhats.org) in collaboration with [National Cybersecurity R&D Labs](https://ncl.sg).
+Grey Cat The Flag is an annual CTF hosted by [NUS Greyhats](https://nusgreyhats.org).
 
 Registration has not opened yet. Stay tuned to our [socials](https://linktr.ee/nus.greyhats) to stay updated!
 
@@ -14,7 +14,15 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-We will host the onsite finals in singapore, to which the top 8 international teams and the top 8 Singapore teams from the qualifiers will be invited. 
+There will be two categories this year
+
+1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen)
+
+2. Open Category consists of: all participants who does not qualify for the local category OR participants who is eligible for the local category but opts in for the open category
+
+There will be an onsite finals for the top 20 teams in the local category. Each team may send up to 4 people for the onsite finals.
+
+Regrettably, we are unable to accommodate international teams for the onsite finals this year. On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Open category.
 
 Each team may send up to 6 people for the finals, and accommodation in Singapore will be provided for the international teams. Accomodation costs for the top 3 international teams will be fully paid for.
 
@@ -22,27 +30,21 @@ A team can be considered a Singapore team only if all its members participating 
 
 ### $ stat summit
 
-We are excited to announce that we are hosting our very own Summit this year at Google Everest in Singapore! This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation. We hope that you will join us for this fantastic summit!
+We are excited to announce that we are hosting our very own Summit this year in Singapore! This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation. We hope that you will join us for this fantastic summit!
 
 Event schedule (TBC)
 
-Time (22 June SGT) | Event
--- | --
-1000 - 1100 | Speeches by Gold Sponsors
-1100 - 1300 | Summit talks
-1300 - 1400 | Lunch and networking
-1400 - 1600 | Summit talks
-1600 - 1630 | Tea break
-1630 - 1730 | Keynote speech by Platinum Sponsor
-1730 - 1800 | Prize presentation
+| Time (3rd August, SGT) | Event |
+| -- | -- |
+| coming soon... | coming soon... |
 
 ### $ where ctf
 
 dates | events
 -- | --
-23 March, 9pm (GMT+8) to<br/>24 March, 9pm (GMT+8) | Qualifiers, Online
-20 to 21 June | Finals @ TBC
-22 June | GCTF Summit @ Google Everest (Singapore)
+20th April, 12pm (GMT+8) to<br/>21st April, 12pm (GMT+8) | Qualifiers, Online
+27 July | Finals @ TBC
+3 August | GCTF Summit @ TBC
 
 ### $ man prize
 <style>
@@ -61,17 +63,17 @@ dates | events
 
 ranking | prize
 -- | --
-1st place | SGD 6000
-2nd place | SGD 3000
-3rd place | SGD 1000
+1st place | TBC
+2nd place | TBC
+3rd place | TBC
 
 <p class="category-header">local category</p>
 
 ranking | prize
 -- | --
-1st place | SGD 3000
-2nd place | SGD 2000
-3rd place | SGD 1000
+1st place | TBC
+2nd place | TBC
+3rd place | TBC
 
 ### $ whois sponsors
 
@@ -103,10 +105,10 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 }
 </style>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Bronze Sponsor</p>
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Coming Soon!</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 240px;' src="/bakkhos-logo.png"/></a>
+        <!-- <a href="https://www.XXX.com/"><img alt="XXX" style='height: 240px;' src="/XXX.png"/></a> -->
     </div>
 </div>
 
@@ -128,7 +130,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 <div class="qna">
 <p><strong>Q: Is there a team size limit for qualifiers?</strong></p>
-<p>A: There is no team size limit for qualifiers. You can have as many team members as you want. However, please note that each team can only send up to 6 members for the finals.</p>
+<p>A: There is no team size limit for qualifiers. You can have as many team members as you want. However, please note that each team can only send up to 4 members for the finals.</p>
 </div>
 
 <div class="qna">
