@@ -2,7 +2,9 @@
 
 Grey Cat The Flag is an annual CTF hosted by [NUS Greyhats](https://nusgreyhats.org).
 
-Registration has not opened yet. Stay tuned to our [socials](https://linktr.ee/nus.greyhats) to stay updated!
+Registration is now open on [CTFd](https://ctfd.nusgreyhats.org)!
+
+Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) to stay updated!
 
 #### What is CTF?
 
