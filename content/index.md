@@ -63,17 +63,19 @@ dates | events
 
 ranking | prize
 -- | --
-1st place | TBC
-2nd place | TBC
-3rd place | TBC
+1st place | SGD 2000
+2nd place | SGD 1000
+3rd place | SGD 400
 
 <p class="category-header">local category</p>
 
 ranking | prize
 -- | --
-1st place | TBC
-2nd place | TBC
-3rd place | TBC
+1st place | SGD 4000
+2nd place | SGD 2000
+3rd place | SGD 1000
+4th-10th place | SGD 400
+secret 👀 | 👀👀👀
 
 ### $ whois sponsors
 
