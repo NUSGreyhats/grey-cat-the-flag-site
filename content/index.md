@@ -75,7 +75,7 @@ ranking | prize
 2nd place | SGD 2000
 3rd place | SGD 1000
 4th-10th place | SGD 400
-secret 👀 | 👀👀👀
+special prizes | stay tuned!
 
 ### $ whois sponsors
 
