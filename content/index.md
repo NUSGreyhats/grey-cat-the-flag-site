@@ -117,13 +117,11 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 }
 
 .sponsor-logo-image {
-    margin: 0.5rem;
-    padding: 1rem;
     vertical-align: middle;
 }
 
 .sponsor-logo-image img {
-    max-width: 350px;
+    max-width: 170px;
     margin: auto;
 }
 </style>
@@ -131,27 +129,27 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" style='height: 240px;' src="/dsta-logo.png"/></a>
+        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" src="/dsta-logo.png"/></a>
     </div>
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" style='height: 240px;' src="/dso-logo.png"/></a>
+        <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" src="/dso-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
-        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" style='height: 240px;' src="/isd-logo.png"/></a>
+        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
-        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" style='height: 240px;' src="/htx-logo.png"/></a>
+        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
     </div>
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" style='height: 240px;' src="/csa-logo.png"/></a>
+        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" src="/csa-logo.png"/></a>
     </div>
 </div>
 
