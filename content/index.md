@@ -139,11 +139,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
         <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" style='height: 240px;' src="/dso-logo.png"/></a>
-    </div>
-    <div class="sponsor-logo-image">
         <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" style='height: 240px;' src="/isd-logo.png"/></a>
-    </div>
-    <div class="sponsor-logo-image">
         <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" style='height: 240px;' src="/htx-logo.png"/></a>
     </div>
 </div>
