@@ -30,22 +30,28 @@ On the bright side, we will have attractive cash prizes up for grabs the top 3 t
 
 ### $ stat summit
 
-We are excited to announce that we are hosting our very own Summit this year in Singapore! This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation. We hope that you will join us for this fantastic summit!
+We are excited to announce that we are hosting our very own Summit this year in Singapore! 
+
+This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. 
+
+Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation.
+
+We hope that you will join us for this fantastic summit!
 
 The summit will happen on 10th August, from 1000h to 1630h (SGT) at NUS COM1 Level 2.
 
 | Time | Event |
 | -- | -- |
-| 1000h | DSTA Talk |
-| 1015h | DSO Talk |
-| 1030h | ISD (MHA) Talk |
-| 1045h | Prize Presentation |
-| 1100h | Technical Talk 1 |
-| 1130h | Technical Talk 2 |
-| 1200h | Lunch & Networking |
-| 1330h | Technical Talk 3 |
-| 1400h | Technical Workshop |
-| 1600h | Closing Ceremony |
+| 1000h - 1015h | DSTA Talk |
+| 1015h - 1030h | DSO Talk |
+| 1030h - 1045h | ISD (MHA) Talk |
+| 1045h - 1100h | Prize Presentation |
+| 1100h - 1130h | Talk 1 - ? |
+| 1130h - 1200h | Talk 2 - ? |
+| 1200h - 1330h | Lunch & Networking |
+| 1330h - 1400h | Talk 3 - ? |
+| 1400h - 1600h | Workshop - ? |
+| 1600h - 1630h | Closing Ceremony |
 
 Concurrently, we will have some booths and activities happening in parallel with the talks that includes (but is not limited to):
 
@@ -59,7 +65,7 @@ dates | events
 -- | --
 20th April, 12pm (GMT+8) to<br/>21st April, 12pm (GMT+8) | Qualifiers, Online
 27th July, 10am (GMT+8) to<br/>28th July, 10am (GMT+8) | Finals @ NUS COM1
-10th August | GCTF Summit @ NUS COM1
+10th August, 10am (GMT+8) to<br/>10th August, 4.30pm (GMT+8) | GCTF Summit @ NUS COM1
 
 ### $ man prize
 <style>
