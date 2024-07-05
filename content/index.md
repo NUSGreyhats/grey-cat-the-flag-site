@@ -32,19 +32,34 @@ On the bright side, we will have attractive cash prizes up for grabs the top 3 t
 
 We are excited to announce that we are hosting our very own Summit this year in Singapore! This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation. We hope that you will join us for this fantastic summit!
 
-Event schedule (TBC)
+The summit will happen on 10th August, from 1000h to 1630h (SGT) at NUS COM1 Level 2.
 
-| Time (3rd August, SGT) | Event |
+| Time | Event |
 | -- | -- |
-| coming soon... | coming soon... |
+| 1000h | DSTA Talk |
+| 1015h | DSO Talk |
+| 1030h | ISD (MHA) Talk |
+| 1045h | Prize Presentation |
+| 1100h | Technical Talk 1 |
+| 1130h | Technical Talk 2 |
+| 1200h | Lunch & Networking |
+| 1330h | Technical Talk 3 |
+| 1400h | Technical Workshop |
+| 1600h | Closing Ceremony |
+
+Concurrently, we will have some booths and activities happening in parallel with the talks that includes (but is not limited to):
+
+- Hardware Hacking
+- Lock Picking
+- many more...
 
 ### $ where ctf
 
 dates | events
 -- | --
 20th April, 12pm (GMT+8) to<br/>21st April, 12pm (GMT+8) | Qualifiers, Online
-27 July | Finals @ TBC
-3 August | GCTF Summit @ TBC
+27th July, 10am (GMT+8) to<br/>28th July, 10am (GMT+8) | Finals @ NUS COM1
+10th August | GCTF Summit @ NUS COM1
 
 ### $ man prize
 <style>
@@ -107,12 +122,37 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 }
 </style>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Coming Soon!</p>
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <!-- <a href="https://www.XXX.com/"><img alt="XXX" style='height: 240px;' src="/XXX.png"/></a> -->
+        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" style='height: 240px;' src="/dsta-logo.png"/></a>
     </div>
 </div>
+
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsor</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" style='height: 240px;' src="/dso-logo.png"/></a>
+    </div>
+</div>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" style='height: 240px;' src="/isd-logo.png"/></a>
+    </div>
+</div>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" style='height: 240px;' src="/htx-logo.png"/></a>
+    </div>
+</div>
+
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" style='height: 240px;' src="/csa-logo.png"/></a>
+    </div>
+</div>
+
 
 ### $ FAQ
 
@@ -203,9 +243,6 @@ ranking | team
 </style>
 
 <div class="past-sponsor-logos-container">
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa-logo.png"/></a>
-    </div>
     <div class="past-sponsor-logo-image">
         <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 120px;' src="/bakkhos-logo.png"/></a>
     </div>
