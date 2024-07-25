@@ -21,7 +21,6 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
 }
 
 .co-host-logo-image img {
-    display: block;
     max-width: 300px;
     margin: auto;
 }
