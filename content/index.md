@@ -21,6 +21,7 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
 }
 
 .co-host-logo-image img {
+    display: block;
     max-width: 300px;
     margin: auto;
 }
@@ -30,7 +31,7 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
         <a href="https://div0.sg/"><img alt="Division Zero (Div0)" src="/div0-logo.png"/></a>
     </div>
     <div class="co-host-logo-image">
-        <a href="https://ncl.sg/"><img alt="National Cybersecurity (R&D) Labs" src="/ncl-logo.png"/></a>
+        <a href="https://nusgreyhats.org/"><img alt="NUS Greyhats" src="/greyhats-logo.png"/></a>
     </div>
 </div>
 
