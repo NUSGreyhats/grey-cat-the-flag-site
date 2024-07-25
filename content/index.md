@@ -2,11 +2,34 @@
 
 Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusgreyhats.org) and [Division Zero (Div0)](https://div0.sg), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
 
-<div class="sponsor-logos-container">
-    <div class="sponsor-logo-image">
+<style>
+.co-host-header {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.co-host-logos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.co-host-logo-image {
+    vertical-align: middle;
+}
+
+.co-host-logo-image img {
+    max-width: 300px;
+    margin: auto;
+}
+</style>
+<div class="co-host-logos-container">
+    <div class="co-host-logo-image">
         <a href="https://div0.sg/"><img alt="Division Zero (Div0)" src="/div0-logo.png"/></a>
     </div>
-    <div class="sponsor-logo-image">
+    <div class="co-host-logo-image">
         <a href="https://ncl.sg/"><img alt="National Cybersecurity (R&D) Labs" src="/ncl-logo.png"/></a>
     </div>
 </div>
