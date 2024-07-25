@@ -1,8 +1,16 @@
 ### $ ctf -h
 
-Grey Cat The Flag is an annual CTF hosted by [NUS Greyhats](https://nusgreyhats.org).
+Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusgreyhats.org) and [Division Zero (Div0)](https://div0.sg), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
 
-Registration is now open on [CTFd](https://ctfd.nusgreyhats.org)!
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://div0.sg/"><img alt="Division Zero (Div0)" src="/div0-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://ncl.sg/"><img alt="National Cybersecurity (R&D) Labs" src="/ncl-logo.png"/></a>
+    </div>
+</div>
+
 
 Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) to stay updated!
 
