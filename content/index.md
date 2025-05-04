@@ -185,9 +185,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Infra Sponsor</p>
-<div class="sponsor-logos-container">
-    Infra sponsored by <a href="goo.gle/ctfsponsorship">goo.gle/ctfsponsorship</a>
-</div>
+<center>Infra sponsored by <a href="goo.gle/ctfsponsorship">goo.gle/ctfsponsorship</a></center>
 
 ### $ FAQ
 
