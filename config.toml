@@ -27,7 +27,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Grey Cat The Flag 2024"
+    title = "Grey Cat The Flag 2025"
     subtitle = "Learn how to hack and make new friends!"
     keywords = ""
     copyright = ""
@@ -45,7 +45,7 @@ paginate = 5
 
     [languages.en.params.logo]
       path = "/logo.png"
-      logoText = "Grey Cat The Flag 24"
+      logoText = "Grey Cat The Flag 25"
       logoHomeLink = "/"
     # or
     #

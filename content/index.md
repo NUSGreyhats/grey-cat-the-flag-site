@@ -92,11 +92,7 @@ Concurrently, we will have some booths and activities happening in parallel with
 
 ### $ where ctf
 
-dates | events
--- | --
-20th April, 12pm (GMT+8) to<br/>21st April, 12pm (GMT+8) | Qualifiers, Online
-27th July, 10am (GMT+8) to<br/>28th July, 10am (GMT+8) | Finals @ NUS COM1
-10th August, 10am (GMT+8) to<br/>10th August, 4.30pm (GMT+8) | GCTF Summit @ NUS COM1
+TBC
 
 ### $ man prize
 <style>
@@ -111,23 +107,7 @@ dates | events
 }
 </style>
 
-<p class="category-header">open category</p>
-
-ranking | prize
--- | --
-1st place | SGD 2000
-2nd place | SGD 1000
-3rd place | SGD 400
-
-<p class="category-header">local category</p>
-
-ranking | prize
--- | --
-1st place | SGD 4000
-2nd place | SGD 2000
-3rd place | SGD 1000
-4th-10th place | SGD 400
-special prizes | stay tuned!
+TBC
 
 ### $ whois sponsors
 
@@ -238,6 +218,15 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
     margin-top: 20px;
 }
 </style>
+
+<p class="past-year-header">2024</p>
+
+ranking | prize
+-- | --
+1st place | slight_smile
+2nd place | nsmallows
+3rd place | 粥
+
 
 <p class="past-year-header">2023</p>
 
