@@ -14,7 +14,7 @@
     align-items: center;
     margin-right: 5px;
 
-    @mixin greater-icon 8px;
+    @include greater-icon(8px);
   }
 
   &__text {
@@ -25,7 +25,7 @@
     display: inline-block;
     width: 10px;
     height: 1rem;
-    background: #588a7c;
+    background: #fe5186;
     margin-left: 5px;
     border-radius: 1px;
     animation: cursor 1s infinite;
