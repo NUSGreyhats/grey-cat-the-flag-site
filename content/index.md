@@ -69,30 +69,11 @@ Plus, you will have the opportunity to hear from our sponsors as well as conclud
 
 We hope that you will join us for this fantastic summit!
 
-The summit will happen on 10th August, from 1000h to 1630h (SGT) at NUS COM1 Level 2.
-
-| Time | Event |
-| -- | -- |
-| 1000h - 1015h | DSTA Talk |
-| 1015h - 1030h | DSO Talk |
-| 1030h - 1045h | ISD (MHA) Talk |
-| 1045h - 1100h | Prize Presentation |
-| 1100h - 1130h | Talk 1 - ? |
-| 1130h - 1200h | Talk 2 - ? |
-| 1200h - 1330h | Lunch & Networking |
-| 1330h - 1400h | Talk 3 - ? |
-| 1400h - 1600h | Workshop - ? |
-| 1600h - 1630h | Closing Ceremony |
-
-Concurrently, we will have some booths and activities happening in parallel with the talks that includes (but is not limited to):
-
-- Hardware Hacking
-- Lock Picking
-- many more...
+_More details coming soon_
 
 ### $ where ctf
 
-TBC
+_More details coming soon_
 
 ### $ man prize
 <style>
