@@ -1,3 +1,26 @@
+---
+---
+
+<style>
+.announcement-banner {
+  background-color: #008000;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #00ff00;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-align: center;
+  margin: 1rem auto;
+  max-width: 800px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+</style>
+<div class="announcement-banner">
+  Signups for Qualifiers are now open <a href="https://ctfd.nusgreyhats.org" target="_blank">HERE</a>!
+</div>
+
+
 ### $ ctf -h
 
 Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusgreyhats.org) and [Division Zero (Div0)](https://div0.sg), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
