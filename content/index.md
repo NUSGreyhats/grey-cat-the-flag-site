@@ -35,7 +35,7 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
 </div>
 
 
-Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) to stay updated!
+Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) and join the [GreyCTF Discord](https://discord.com/invite/d9wbXEP2wN) to stay updated!
 
 #### What is CTF?
 
@@ -49,7 +49,7 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 There will be two categories this year
 
-1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen)
+1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen), singapore citizens studying in an overseas institution
 
 2. Open Category consists of: all participants who do not qualify for the local category, participants who are eligible for the local category but opts in for the open category
 
@@ -57,7 +57,7 @@ There will be an onsite finals for the top 20 teams in the local category. Each 
 
 Regrettably, we are unable to accommodate international teams for the onsite finals this year.
 
-On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Open category.
+On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Qualifiers.
 
 ### $ stat summit
 
@@ -73,7 +73,13 @@ _More details coming soon_
 
 ### $ where ctf
 
-_More details coming soon_
+dates | events
+-- | --
+31st June, 8pm to<br/>1st May, 8pm | Qualifiers, Online
+28th June, 10am to<br/>29th June, 10am | Finals @ NUS COM1
+5th July, 9am to<br/>5th July, 5.30pm | GCTF Summit @ NUS COM1
+
+(_all timing are in GMT+8 timezone_)
 
 ### $ man prize
 <style>
@@ -88,7 +94,25 @@ _More details coming soon_
 }
 </style>
 
-TBC
+<p class="category-header">open category</p>
+
+ranking | prize
+-- | --
+1st place | SGD 2000
+2nd place | SGD 1000
+3rd place | SGD 500
+
+<p class="category-header">local category</p>
+
+ranking | prize
+-- | --
+1st place | SGD 6000
+2nd place | SGD 4000
+3rd place | SGD 2500
+4th place | SGD 1500
+5th place | SGD 1000
+6th-10th place | SGD 500
+special prizes | stay tuned!
 
 ### $ whois sponsors
 
@@ -121,7 +145,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" src="/dsta-logo.png"/></a>
+        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
     </div>
 </div>
 
@@ -131,17 +155,20 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
         <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" src="/dso-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
-        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
+        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" src="/dsta-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
-        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
+        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" src="/csa-logo.png"/></a>
     </div>
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" src="/csa-logo.png"/></a>
+        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.mindef.gov.sg/dis"><img alt="The Digital And Intelligence Service (DIS)" src="/dis-logo.png"/></a>
     </div>
 </div>
 
@@ -171,7 +198,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 <div class="qna">
 <p><strong>Q: What categories are there?</strong></p>
-<p>A: Web, Pwn, Crypto, RE, Blockchain, Misc</p>
+<p>A: Web, Pwn, Crypto, RE, Blockchain, Forensics, Misc</p>
 </div>
 
 <div class="qna">
@@ -225,43 +252,3 @@ ranking | team
 1st place | catssg
 2nd place | nushmellows
 3rd place | Stranglehold
-
-#### Past Sponsors
-<style>
-.past-sponsor-logos-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
-.past-sponsor-logo-image {
-    margin: 0.5rem;
-    vertical-align: middle;
-}
-
-.past-sponsor-logo-image img {
-    max-width: 200px;
-    margin: auto;
-}
-</style>
-
-<div class="past-sponsor-logos-container">
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.bakkhoslabs.com/"><img alt="Bakkhos Labs" style='height: 120px;' src="/bakkhos-logo.png"/></a>
-    </div>
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.mindef.gov.sg/oms/dis/"><img alt="DIS" src="/dis-logo.png"/></a>
-    </div>
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.ensigninfosecurity.com/"><img alt="Ensign InfoSecurity" src="/ensign-logo.png"/></a>
-    </div>
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.guardrails.io/"><img alt="GuardRails" src="/guardrails-logo.svg"/></a>
-    </div>
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.acronis.com/"><img alt="Acronis" src="/acronis-logo.svg"/></a>
-    </div>
-    <div class="past-sponsor-logo-image">
-        <a href="https://www.comp.nus.edu.sg/"><img alt="NUS Computing" src="/nus-computing-logo.png"/></a>
-    </div>
-</div>
