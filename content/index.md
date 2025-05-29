@@ -98,7 +98,7 @@ _More details coming soon_
 
 dates | events
 -- | --
-31st June, 8pm to<br/>1st May, 8pm | Qualifiers, Online
+31st May, 8pm to<br/>1st June, 8pm | Qualifiers, Online
 28th June, 10am to<br/>29th June, 10am | Finals @ NUS COM1
 5th July, 9am to<br/>5th July, 5.30pm | GCTF Summit @ NUS COM1
 
