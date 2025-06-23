@@ -1,26 +1,6 @@
 ---
 ---
 
-<style>
-.announcement-banner {
-  background-color: #008000;
-  color: #fff;
-  padding: 1rem 1.5rem;
-  border-radius: 12px;
-  border: 1px solid #00ff00;
-  font-weight: bold;
-  font-size: 1.1rem;
-  text-align: center;
-  margin: 1rem auto;
-  max-width: 800px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
-</style>
-<div class="announcement-banner">
-  Signups for Qualifiers are now open <a href="https://ctfd.nusgreyhats.org" target="_blank">HERE</a>!
-</div>
-
-
 ### $ ctf -h
 
 Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusgreyhats.org) and [Division Zero (Div0)](https://div0.sg), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
@@ -90,9 +70,8 @@ This event will include talks and workshops on cybersecurity, with plenty of cha
 
 Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation.
 
-We hope that you will join us for this fantastic summit!
+Registration and additional information for the summit can be found [here](https://summit.nusgreyhats.org)!
 
-_More details coming soon_
 
 ### $ where ctf
 
@@ -100,7 +79,7 @@ dates | events
 -- | --
 31st May, 8pm to<br/>1st June, 8pm | Qualifiers, Online
 28th June, 10am to<br/>29th June, 10am | Finals @ NUS COM1
-5th July, 9am to<br/>5th July, 5.30pm | GCTF Summit @ NUS COM1
+5th July, 9.30am to<br/>5th July, 5pm | GCTF Summit @ NUS COM1
 
 (_all timing are in GMT+8 timezone_)
 
