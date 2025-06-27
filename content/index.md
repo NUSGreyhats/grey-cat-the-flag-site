@@ -167,10 +167,13 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
+        <a href="https://csit.gov.sg/"><img alt="Center for Strategic Infocomm Technologies (CSIT)" src="/csit-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
         <a href="https://www.mindef.gov.sg/dis"><img alt="The Digital And Intelligence Service (DIS)" src="/dis-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
     </div>
 </div>
 
