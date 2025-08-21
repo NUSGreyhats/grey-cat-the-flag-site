@@ -114,7 +114,7 @@ ranking | prize
 4th place | SGD 1500
 5th place | SGD 1000
 6th-10th place | SGD 500
-special prizes | stay tuned!
+writeup prizes | SGD 200 (up to 5 winners)
 
 ### $ whois sponsors
 
