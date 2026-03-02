@@ -38,13 +38,13 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
 </div>
 
 
-Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) and join the [GreyCTF Discord](https://discord.com/invite/d9wbXEP2wN) to stay updated!
+Remember to stay tuned to our [socials](https://linktr.ee/nus.greyhats) and join the [GreyCTF Discord](http://discord.gg/tuxWRCf4GQ) to stay updated!
 
 #### What is CTF?
 
 CTF (Capture The Flag) is a kind of information security competition that challenges you to solve a variety of tasks ranging from a scavenger hunt on wikipedia to basic programming exercises, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text that may be hidden on the server or behind a webpage. This goal is called the flag, hence the name!
 
-If you are new, don't worry! We will be sharing resources in our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738adb" class="fab fa-discord"></i> every now and then.
+If you are new, don't worry! We will be sharing resources in our [Discord server](http://discord.gg/tuxWRCf4GQ) <i style="color: #738adb" class="fab fa-discord"></i> every now and then.
 
 [Learn more about CTFs](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)
 
@@ -56,11 +56,7 @@ There will be two categories this year
 
 2. Open Category consists of: all participants who do not qualify for the local category, participants who are eligible for the local category but opts in for the open category
 
-There will be an onsite finals for the top 20 teams in the local category. Each team may send up to 4 people for the onsite finals.
-
-Regrettably, we are unable to accommodate international teams for the onsite finals this year.
-
-On the bright side, we will have attractive cash prizes up for grabs the top 3 teams in our Grey Cat The Flag Qualifiers.
+There will be an onsite finals. Each team may send up to 4 people for the onsite finals. The exact number of teams to be selected from both the Local and Open categories will be determined at a later date.
 
 ### $ stat summit
 
@@ -77,9 +73,9 @@ Registration and additional information for the summit can be found [here](https
 
 dates | events
 -- | --
-31st May, 8pm to<br/>1st June, 8pm | Qualifiers, Online
-28th June, 10am to<br/>29th June, 10am | Finals @ NUS COM1
-5th July, 9.30am to<br/>5th July, 5pm | GCTF Summit @ NUS COM1
+30th May, 10am to<br/>31st May, 10am | Qualifiers, Online
+20th June, 10am to<br/>21st June, 10am | Finals @ NUS COM1
+27th June, 9.30am to<br/>27th June, 5pm | GCTF Summit @ NUS COM1
 
 (_all timing are in GMT+8 timezone_)
 
@@ -98,15 +94,19 @@ dates | events
 
 <p class="category-header">open category</p>
 
-ranking | prize
+Coming soon! Watch this space.
+
+<!-- ranking | prize
 -- | --
 1st place | SGD 2000
 2nd place | SGD 1000
-3rd place | SGD 500
+3rd place | SGD 500 -->
 
 <p class="category-header">local category</p>
 
-ranking | prize
+Coming soon! Watch this space.
+
+<!-- ranking | prize
 -- | --
 1st place | SGD 6000
 2nd place | SGD 4000
@@ -114,11 +114,11 @@ ranking | prize
 4th place | SGD 1500
 5th place | SGD 1000
 6th-10th place | SGD 500
-writeup prizes | SGD 200 (up to 5 winners)
+writeup prizes | SGD 200 (up to 5 winners) -->
 
 ### $ whois sponsors
 
-We would like to extend our heartfelt gratitude to our sponsors <i style="color: #ff0000" class="fa-solid fa-heart"></i>.
+We would like to extend our heartfelt gratitude to our sponsors.
 
 <style>
 .sponsor-tier-header {
@@ -145,10 +145,11 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 </style>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
-<div class="sponsor-logos-container">
+<!-- <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
         <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
-    </div>
+    </div> -->
+    Coming soon!
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsor</p>
@@ -156,12 +157,12 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
     <div class="sponsor-logo-image">
         <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" src="/dso-logo.png"/></a>
     </div>
-    <div class="sponsor-logo-image">
+    <!-- <div class="sponsor-logo-image">
         <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" src="/dsta-logo.png"/></a>
-    </div>
-    <div class="sponsor-logo-image">
+    </div> -->
+    <!-- <div class="sponsor-logo-image">
         <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" src="/csa-logo.png"/></a>
-    </div>
+    </div> -->
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
@@ -169,12 +170,12 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
     <div class="sponsor-logo-image">
         <a href="https://csit.gov.sg/"><img alt="Center for Strategic Infocomm Technologies (CSIT)" src="/csit-logo.png"/></a>
     </div>
-    <div class="sponsor-logo-image">
+    <!-- <div class="sponsor-logo-image">
         <a href="https://www.mindef.gov.sg/dis"><img alt="The Digital And Intelligence Service (DIS)" src="/dis-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
         <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
-    </div>
+    </div> -->
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Infra Sponsor</p>
@@ -182,7 +183,7 @@ We would like to extend our heartfelt gratitude to our sponsors <i style="color:
 
 ### $ FAQ
 
-Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738adb" class="fab fa-discord"></i> if you have more questions.
+Join our [Discord server](http://discord.gg/tuxWRCf4GQ) <i style="color: #738adb" class="fab fa-discord"></i> if you have more questions.
 
 <style>
 .qna {
@@ -203,7 +204,7 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
 
 <div class="qna">
 <p><strong>Q: What categories are there?</strong></p>
-<p>A: Web, Pwn, Crypto, RE, Blockchain, Forensics, Misc</p>
+<p>A: Web, Pwn, RE, Blockchain, Forensics, Misc</p>
 </div>
 
 <div class="qna">
@@ -231,6 +232,15 @@ Join our [Discord server](https://discord.gg/d9wbXEP2wN) <i style="color: #738ad
     margin-top: 20px;
 }
 </style>
+
+<p class="past-year-header">2025</p>
+
+ranking | prize
+-- | --
+1st place | slight_smile
+2nd place | HotpotHunchos
+3rd place | mallows
+
 
 <p class="past-year-header">2024</p>
 
