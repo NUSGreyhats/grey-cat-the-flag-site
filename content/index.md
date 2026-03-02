@@ -1,5 +1,4 @@
 ---
-title: "Grey Cat The Flag 2026"
 description: "Grey Cat The Flag is an annual CTF hosted jointly by NUS Greyhats."
 ---
 
