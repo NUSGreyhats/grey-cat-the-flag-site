@@ -1,4 +1,6 @@
 ---
+title: "Grey Cat The Flag 2026"
+description: "Grey Cat The Flag is an annual CTF hosted jointly by NUS Greyhats."
 ---
 
 ### $ ctf -h
@@ -92,29 +94,7 @@ dates | events
 }
 </style>
 
-<p class="category-header">open category</p>
-
-Coming soon! Watch this space.
-
-<!-- ranking | prize
--- | --
-1st place | SGD 2000
-2nd place | SGD 1000
-3rd place | SGD 500 -->
-
-<p class="category-header">local category</p>
-
-Coming soon! Watch this space.
-
-<!-- ranking | prize
--- | --
-1st place | SGD 6000
-2nd place | SGD 4000
-3rd place | SGD 2500
-4th place | SGD 1500
-5th place | SGD 1000
-6th-10th place | SGD 500
-writeup prizes | SGD 200 (up to 5 winners) -->
+<p class="category-header">Coming soon! Watch this space.</p>
 
 ### $ whois sponsors
 
@@ -144,13 +124,12 @@ We would like to extend our heartfelt gratitude to our sponsors.
 }
 </style>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
-<!-- <div class="sponsor-logos-container">
+<!-- <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
+<div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
         <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
-    </div> -->
-    Coming soon!
-</div>
+    </div>
+</div> -->
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsor</p>
 <div class="sponsor-logos-container">
