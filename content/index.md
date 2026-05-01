@@ -75,8 +75,8 @@ Registration and additional information for the summit can be found [here](https
 dates | events
 -- | --
 30th May, 10am to<br/>31st May, 10am | Qualifiers, Online
-20th June, 10am to<br/>21st June, 10am | Finals @ NUS COM1
-27th June, 9.30am to<br/>27th June, 5pm | GCTF Summit @ NUS COM1
+27th June, 10am to<br/>28th June, 10am | Finals @ NUS COM1
+4th July, 9.30am to<br/>4th July, 5pm | GCTF Summit @ NUS COM1
 
 (_all timing are in GMT+8 timezone_)
 
