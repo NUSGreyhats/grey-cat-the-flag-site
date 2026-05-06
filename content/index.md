@@ -51,13 +51,13 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-There will be two categories this year
+There will be two categories this year. All participants must be undergraduate or pre-university students.
 
 1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen), singapore citizens studying in an overseas institution
 
 2. Open Category consists of: all participants who do not qualify for the local category, participants who are eligible for the local category but opts in for the open category
 
-There will be an onsite finals. Each team may send up to 4 people for the onsite finals. The exact number of teams to be selected from both the Local and Open categories will be determined at a later date.
+There will be onsite finals for the top 10 local teams and top 10 international teams. Each team may send up to 4 people for the onsite finals.
 
 ### $ stat summit
 
