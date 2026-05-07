@@ -53,11 +53,9 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 There will be two categories this year: Local and International. **All participants (regardless of category) must be undergraduate or pre-university students, such as NSFs, JC, Poly, or ITE students.**
 
-1. Local Category
-Teams must consist **entirely** of Singapore Citizens or Permanent Residents.
+1. **Local Category:** Teams must consist **entirely** of Singapore Citizens or Permanent Residents.
 
-2. International Category
-Teams that do not qualify for the Local Category will compete in the International Category.
+2. **International Category:** Teams that do not qualify for the Local Category will compete in the International Category.
 
 The top 10 Local teams and top 10 International teams will qualify for the onsite finals. Each team may send up to 4 members to attend the onsite finals.
 
