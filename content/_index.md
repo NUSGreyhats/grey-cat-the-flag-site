@@ -48,13 +48,13 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-There will be two categories this year
+There will be two categories this year: Local and International. **All participants (regardless of category) must be undergraduate or pre-university students, such as NSFs, JC, Poly, or ITE students.**
 
-1. Local Category consists of: NSFs, students that are currently enrolled in an educational institute in Singapore (team should consist of at least one Singapore Citizen), singapore citizens studying in an overseas institution
+1. **Local Category:** Teams must consist **entirely** of Singapore Citizens or Permanent Residents.
 
-2. Open Category consists of: all participants who do not qualify for the local category, participants who are eligible for the local category but opts in for the open category
+2. **International Category:** Teams that do not qualify for the Local Category will compete in the International Category.
 
-There will be an onsite finals. Each team may send up to 4 people for the onsite finals. The exact number of teams to be selected from both the Local and Open categories will be determined at a later date.
+The top 10 Local teams and top 10 International teams will qualify for the onsite finals. Each team may send up to 4 members to attend the onsite finals.
 
 ### $ stat summit
 
@@ -72,8 +72,8 @@ Registration and additional information for the summit can be found [here](https
 dates | events
 -- | --
 30th May, 10am to<br/>31st May, 10am | Qualifiers, Online
-20th June, 10am to<br/>21st June, 10am | Finals @ NUS COM1
-27th June, 9.30am to<br/>27th June, 5pm | GCTF Summit @ NUS COM1
+27th June, 10am to<br/>28th June, 10am | Finals @ NUS COM1
+4th July, 9.30am to<br/>4th July, 5pm | GCTF Summit @ NUS COM1
 
 (_all timing are in GMT+8 timezone_)
 
@@ -154,7 +154,7 @@ We would like to extend our heartfelt gratitude to our sponsors.
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Infra Sponsor</p>
-<center>Infra sponsored by <a href="goo.gle/ctfsponsorship">goo.gle/ctfsponsorship</a></center>
+<center>Infra sponsored by <a href="https://goo.gle/ctfsponsorship">goo.gle/ctfsponsorship</a></center>
 
 ### $ FAQ
 
