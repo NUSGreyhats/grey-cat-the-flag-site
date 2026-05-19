@@ -4,7 +4,7 @@ description: "Grey Cat The Flag is an annual CTF hosted jointly by NUS Greyhats.
 
 ### $ ctf -h
 
-Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusgreyhats.org) and [Division Zero (Div0)](https://div0.sg), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
+Grey Cat The Flag is an annual CTF hosted by [NUS Greyhats](https://nusgreyhats.org), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
 
 <style>
 .co-host-header {
@@ -30,9 +30,6 @@ Grey Cat The Flag is an annual CTF hosted jointly by [NUS Greyhats](https://nusg
 }
 </style>
 <div class="co-host-logos-container">
-    <div class="co-host-logo-image">
-        <a href="https://div0.sg/"><img alt="Division Zero (Div0)" src="/div0-logo.png"/></a>
-    </div>
     <div class="co-host-logo-image">
         <a href="https://nusgreyhats.org/"><img alt="NUS Greyhats" src="/greyhats-logo.png"/></a>
     </div>
