@@ -6,6 +6,8 @@ description: "Grey Cat The Flag is an annual CTF hosted jointly by NUS Greyhats.
 
 Grey Cat The Flag is an annual CTF hosted by [NUS Greyhats](https://nusgreyhats.org), supported by the [National Cybersecurity R&D Lab](https://ncl.sg/).
 
+Registrations are now open at <https://ctfd.nusgreyhats.org>!
+
 <style>
 .co-host-header {
     text-align: center;
