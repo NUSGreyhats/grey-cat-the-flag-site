@@ -50,7 +50,7 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ cat rules
 
-- Any forms of AI usage is allowed, but we hope that you will appreciate the challenge that we've written for you
+- All forms of AI usage are allowed, but we hope first and foremost that you'll have fun with the challenges we wrote!
 - No forms of attack or disruption on our infrastructure is accepted (even if it's done by your agent) and will lead to an immediate ban
 - AI should not be used to interact with challenge authors nor the CTFd platform
 
