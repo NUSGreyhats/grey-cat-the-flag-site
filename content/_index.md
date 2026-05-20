@@ -48,6 +48,12 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 [Learn more about CTFs](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)
 
+### $ cat rules
+
+- Any forms of AI usage is allowed, but we hope that you will appreciate the challenge that we've written for you
+- No forms of attack or disruption on our infrastructure is accepted (even if it's done by your agent) and will lead to an immediate ban
+- AI should not be used to interact with challenge authors nor the CTFd platform
+
 ### $ stat ctf
 
 There will be two categories this year: Local and International. **All participants (regardless of category) must be undergraduate or pre-university students, such as NSFs, JC, Poly, or ITE students.**
@@ -60,9 +66,9 @@ The top 10 Local teams and top 10 International teams will qualify for the onsit
 
 ### $ stat summit
 
-We are excited to announce that we are hosting our very own Summit this year in Singapore! 
+We are excited to announce that we are hosting our very own Summit this year in Singapore!
 
-This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea. 
+This event will include talks and workshops on cybersecurity, with plenty of chances to meet new people during breaks and over lunch and tea.
 
 Plus, you will have the opportunity to hear from our sponsors as well as concluding with the CTF prize presentation.
 
@@ -71,11 +77,11 @@ Registration and additional information for the summit can be found [here](https
 
 ### $ where ctf
 
-dates | events
--- | --
-30th May, 10am to<br/>31st May, 10am | Qualifiers, Online
-27th June, 10am to<br/>28th June, 10am | Finals @ NUS COM1
-4th July, 9.30am to<br/>4th July, 5pm | GCTF Summit @ NUS COM1
+| dates                                  | events                 |
+| -------------------------------------- | ---------------------- |
+| 30th May, 10am to<br/>31st May, 10am   | Qualifiers, Online     |
+| 27th June, 10am to<br/>28th June, 10am | Finals @ NUS COM1      |
+| 4th July, 9.30am to<br/>4th July, 5pm  | GCTF Summit @ NUS COM1 |
 
 (_all timing are in GMT+8 timezone_)
 
@@ -212,35 +218,35 @@ Join our [Discord server](http://discord.gg/tuxWRCf4GQ) <i style="color: #738adb
 
 <p class="past-year-header">2025</p>
 
-ranking | prize
--- | --
-1st place | slight_smile
-2nd place | HotpotHunchos
-3rd place | mallows
+| ranking   | prize         |
+| --------- | ------------- |
+| 1st place | slight_smile  |
+| 2nd place | HotpotHunchos |
+| 3rd place | mallows       |
 
 
 <p class="past-year-header">2024</p>
 
-ranking | prize
--- | --
-1st place | slight_smile
-2nd place | nsmallows
-3rd place | 粥
+| ranking   | prize        |
+| --------- | ------------ |
+| 1st place | slight_smile |
+| 2nd place | nsmallows    |
+| 3rd place | 粥           |
 
 
 <p class="past-year-header">2023</p>
 
-ranking | team
--- | --
-1st place | r3kapig
-2nd place | DiceGang
-3rd place | Social Engineering Experts
+| ranking   | team                       |
+| --------- | -------------------------- |
+| 1st place | r3kapig                    |
+| 2nd place | DiceGang                   |
+| 3rd place | Social Engineering Experts |
 
 
 <p class="past-year-header">2022</p>
 
-ranking | team
--- | --
-1st place | catssg
-2nd place | nushmellows
-3rd place | Stranglehold
+| ranking   | team         |
+| --------- | ------------ |
+| 1st place | catssg       |
+| 2nd place | nushmellows  |
+| 3rd place | Stranglehold |
