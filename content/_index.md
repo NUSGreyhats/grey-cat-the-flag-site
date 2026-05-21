@@ -56,7 +56,7 @@ If you are new, don't worry! We will be sharing resources in our [Discord server
 
 ### $ stat ctf
 
-There will be two categories this year: Local and International. **All participants (regardless of category) must be undergraduate or pre-university students, such as NSFs, JC, Poly, or ITE students.**
+There will be two categories this year: Local and International. **Local Category participants must be undergraduate or pre-university students, such as NSFs, JC, Poly, or ITE students. International Category participants may also include Master’s students.**
 
 1. **Local Category:** Teams must consist **entirely** of Singapore Citizens or Permanent Residents.
 
@@ -187,7 +187,7 @@ Join our [Discord server](http://discord.gg/tuxWRCf4GQ) <i style="color: #738adb
 
 <div class="qna">
 <p><strong>Q: What categories are there?</strong></p>
-<p>A: Web, Pwn, RE, Blockchain, Forensics, Misc</p>
+<p>A: AI, Crypto, Forensics, Pwn, RE, Web, Misc</p>
 </div>
 
 <div class="qna">
