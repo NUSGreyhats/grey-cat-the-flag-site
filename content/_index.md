@@ -19,21 +19,43 @@ Registrations are now open at <https://ctfd.nusgreyhats.org>!
 .co-host-logos-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem 3rem;
 }
 
 .co-host-logo-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 1 300px;
+    min-height: 125px;
     vertical-align: middle;
 }
 
+.co-host-logo-image a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 .co-host-logo-image img {
+    display: block;
+    width: 100%;
     max-width: 300px;
+    max-height: 125px;
+    height: auto;
     margin: auto;
+    object-fit: contain;
 }
 </style>
 <div class="co-host-logos-container">
     <div class="co-host-logo-image">
         <a href="https://nusgreyhats.org/"><img alt="NUS Greyhats" src="/greyhats-logo.png"/></a>
+    </div>
+    <div class="co-host-logo-image">
+        <a href="https://ncl.sg/"><img alt="National Cybersecurity R&D Lab" src="/ncl-logo.svg"/></a>
     </div>
 </div>
 
@@ -115,50 +137,87 @@ We would like to extend our heartfelt gratitude to our sponsors.
 .sponsor-logos-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    gap: 1.25rem 2.5rem;
 }
 
 .sponsor-logo-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 1 220px;
+    min-height: 100px;
     vertical-align: middle;
 }
 
+.sponsor-logo-image a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 .sponsor-logo-image img {
+    display: block;
+    width: 100%;
     max-width: 170px;
+    max-height: 90px;
+    height: auto;
     margin: auto;
+    object-fit: contain;
+}
+
+.sponsor-logo-image img.sponsor-logo-wide {
+    max-width: 220px;
+    max-height: 90px;
 }
 </style>
 
-<!-- <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Platinum Sponsor</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Techology Agency" src="/htx-logo.png"/></a>
+        <a href="https://www.csa.gov.sg/"><img alt="Cyber Security Agency of Singapore" src="/csa-logo.png"/></a>
     </div>
-</div> -->
+</div>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsor</p>
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Gold Sponsors</p>
 <div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science and Technology Agency" src="/dsta-logo.png"/></a>
+    </div>
     <div class="sponsor-logo-image">
         <a href="https://www.dso.org.sg/"><img alt="DSO National Laboratories" src="/dso-logo.png"/></a>
     </div>
-    <!-- <div class="sponsor-logo-image">
-        <a href="https://www.dsta.gov.sg/"><img alt="Defence Science & Technology Agency" src="/dsta-logo.png"/></a>
-    </div> -->
-    <!-- <div class="sponsor-logo-image">
-        <a href="https://www.csa.gov.sg/"><img alt="Cybersecurity Agency of Singapore" src="/csa-logo.png"/></a>
-    </div> -->
 </div>
 
-<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsor</p>
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Silver Sponsors</p>
 <div class="sponsor-logos-container">
     <div class="sponsor-logo-image">
-        <a href="https://csit.gov.sg/"><img alt="Center for Strategic Infocomm Technologies (CSIT)" src="/csit-logo.png"/></a>
-    </div>
-    <!-- <div class="sponsor-logo-image">
-        <a href="https://www.mindef.gov.sg/dis"><img alt="The Digital And Intelligence Service (DIS)" src="/dis-logo.png"/></a>
+        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Security Department" src="/isd-logo.png"/></a>
     </div>
     <div class="sponsor-logo-image">
-        <a href="https://www.mha.gov.sg/isd"><img alt="Internal Secury Department (Ministry of Home Affairs)" src="/isd-logo.png"/></a>
-    </div> -->
+        <a href="https://csit.gov.sg/"><img alt="Centre for Strategic Infocomm Technologies (CSIT)" src="/csit-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.mindef.gov.sg/dis"><img alt="Digital and Intelligence Service" src="/dis-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.htx.gov.sg/"><img alt="Home Team Science and Technology Agency" src="/htx-logo.png"/></a>
+    </div>
+</div>
+
+<p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Bronze Sponsors</p>
+<div class="sponsor-logos-container">
+    <div class="sponsor-logo-image">
+        <a href="https://www.janestreet.com/"><img class="sponsor-logo-wide" alt="Jane Street" src="/jane-street-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.zellic.io/"><img class="sponsor-logo-wide" alt="Zellic" src="/zellic-logo.png"/></a>
+    </div>
+    <div class="sponsor-logo-image">
+        <a href="https://www.espressif.com/"><img class="sponsor-logo-wide" alt="Espressif" src="/espressif-logo.svg"/></a>
+    </div>
 </div>
 
 <p class="sponsor-tier-header"><i style="color: #E5E4E2" class="fa-solid fa-coins"></i> Infra Sponsor</p>
