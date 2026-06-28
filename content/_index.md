@@ -120,7 +120,21 @@ Registration and additional information for the summit can be found [here](https
 }
 </style>
 
-<p class="category-header">Coming soon! Watch this space.</p>
+<p class="category-header">International Category</p>
+
+| ranking   | prize                                            |
+| --------- | ------------------------------------------------ |
+| 1st place | Custom UNIQLO Graphic T-shirt (per person)       |
+| 2nd place | Laksa + Kaya + Irvins (per person)               |
+| 3rd place | Laksa + Kaya (per person)                         |
+
+<p class="category-header">Local Category</p>
+
+| ranking   | prize                                                          |
+| --------- | -------------------------------------------------------------- |
+| 1st place | Custom UNIQLO Graphic T-shirt (per person)                     |
+| 2nd place | Pokemon Cards, 3 packs (per person)                            |
+| 3rd place | 4x Mysterious LLM API Keys (stored value of $20 each)          |
 
 ### $ whois sponsors
 
